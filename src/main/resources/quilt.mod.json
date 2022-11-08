@@ -2,10 +2,10 @@
 	"schema_version": 1,
 	"quilt_loader": {
 		"group": "com.dm.earth",
-		"id": "modid",
+		"id": "kusl_recipe_fix",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Id",
+			"name": "KuSL Recipe Fix",
 			"description": "A short description of your mod.",
 			"contributors": {
 				"DM Earth": "Owner"
@@ -13,12 +13,9 @@
 			"contact": {
 				"sources": "https://github.com/DM-Earth"
 			},
-			"icon": "assets/modid/icon.png"
+			"icon": "assets/kusl_recipe_fix/icon.png"
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
-		"entrypoints": {
-			"init": "com.dm.earth.modid.Modid"
-		},
 		"depends": [
 			{
 				"id": "quilt_loader",
@@ -34,5 +31,5 @@
 			}
 		]
 	},
-	"mixin": "modid.mixins.json"
+	"mixin": "kusl_recipe_fix.mixins.json"
 }

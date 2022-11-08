@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dm.earth.kusl_fix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "RecipeEventJSMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
