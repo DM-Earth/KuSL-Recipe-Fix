@@ -6,12 +6,12 @@
 		"version": "${version}",
 		"metadata": {
 			"name": "KuSL Recipe Fix",
-			"description": "A short description of your mod.",
+			"description": "Fix KubeJS compatibility with QSL Recipe API.",
 			"contributors": {
 				"DM Earth": "Owner"
 			},
 			"contact": {
-				"sources": "https://github.com/DM-Earth"
+				"sources": "https://github.com/DM-Earth/KuSL-Recipe-Fix"
 			},
 			"icon": "assets/kusl_recipe_fix/icon.png"
 		},
